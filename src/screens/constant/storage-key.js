@@ -1,0 +1,2 @@
+export const ONBOARD_DONE = "ONBOARD_DONE";
+export const CURRENT_USER = "DETOX_CURRENT_USER";

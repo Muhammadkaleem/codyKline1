@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "682039270609",
+    "firebase_url": "https://klinecodycustomer-ea305.firebaseio.com",
+    "project_id": "klinecodycustomer-ea305",
+    "storage_bucket": "klinecodycustomer-ea305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682039270609:android:2da470b68c144e70",
+        "android_client_info": {
+          "package_name": "com.customer_app_working"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682039270609-l61gp2qrioamlv7rhihd8nf2f462iu57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.customer_app_working",
+            "certificate_hash": "041f63c03fc28a8c3e003acd4d3a079bf5d90396"
+          }
+        },
+        {
+          "client_id": "682039270609-da976omnd8eo1tjnt97uldaoibg52a2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9QzIKXE_YNQ1ICtvX0Ee1PuXhwLliXMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682039270609-da976omnd8eo1tjnt97uldaoibg52a2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

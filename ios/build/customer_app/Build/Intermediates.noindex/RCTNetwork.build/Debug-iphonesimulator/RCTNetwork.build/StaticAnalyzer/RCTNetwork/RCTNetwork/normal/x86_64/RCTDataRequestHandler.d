@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/azeemakram/Desktop/ReactNative/smb_kline_cody/customer_app_live/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.m \
+  /Users/azeemakram/Desktop/ReactNative/smb_kline_cody/customer_app_live/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.h \
+  /Users/azeemakram/Desktop/ReactNative/smb_kline_cody/customer_app_live/ios/build/customer_app/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/azeemakram/Desktop/ReactNative/smb_kline_cody/customer_app_live/ios/build/customer_app/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/azeemakram/Desktop/ReactNative/smb_kline_cody/customer_app_live/ios/build/customer_app/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/azeemakram/Desktop/ReactNative/smb_kline_cody/customer_app_live/ios/build/customer_app/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/azeemakram/Desktop/ReactNative/smb_kline_cody/customer_app_live/ios/build/customer_app/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h

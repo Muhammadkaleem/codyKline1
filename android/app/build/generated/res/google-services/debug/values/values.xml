@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">682039270609-da976omnd8eo1tjnt97uldaoibg52a2q.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://klinecodycustomer-ea305.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">682039270609</string>
+    <string name="google_api_key" translatable="false">AIzaSyA9QzIKXE_YNQ1ICtvX0Ee1PuXhwLliXMg</string>
+    <string name="google_app_id" translatable="false">1:682039270609:android:2da470b68c144e70</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA9QzIKXE_YNQ1ICtvX0Ee1PuXhwLliXMg</string>
+    <string name="google_storage_bucket" translatable="false">klinecodycustomer-ea305.appspot.com</string>
+    <string name="project_id" translatable="false">klinecodycustomer-ea305</string>
+</resources>
